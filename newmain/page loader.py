@@ -1,4 +1,25 @@
 from rake_nltk import Rake
+# MAIN Code
+import PyPDF2
+
+# Open the PDF file
+with open('paper.pdf', 'rb') as f:
+    # Create a PDF reader object
+    reader = PyPDF2.PdfReader(f)
+
+    # Get the number of pages in the PDF file
+    num_pages = len(reader.pages)
+
+    # Loop over each page in the PDF file
+    for i in range(num_pages):
+        # Get the text on this page
+        page = reader.pages[i]
+        text = page.extract_text()
+
+        # Write the text to a text file
+        with open('output.txt', 'a', encoding="utf-8") as outfile:
+            outfile.write(text)
+
 # Open the text file
 # MAIN Code
 r = Rake()

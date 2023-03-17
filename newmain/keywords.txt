@@ -1,0 +1,92 @@
+['considered _________', '_________', 'q', 'high', '1'] 
+************************
+['3 let r', '4 )( 𝑟', '3 )( 𝑟', '2 )( 𝑟', 'equation 𝑥ଶ', '𝑟', 'value', 'root', 'q', 'expression', '6', '5', '2𝑥', '0'] 
+************************
+['least one student', 'given four statements', 'four statements', '4 given', 'two statements', 'true simultaneously', 'statement 4', 'statement 3', 'statement 2', 'statement 1', 'student', 'students', 'students', 'students', 'q', 'inquisitive', 'inquisitive', 'inquisitive', 'inquisitive', 'find', 'class', 'cannot', 'assuming'] 
+************************
+['following two plates painted', 'additional plates would allow', 'additional plates given', 'five plates exactly', 'letter palindrome', 'plates', 'five', 'palindrome', 'words', 'word', 'use', 'rotated', 'reads', 'q', 'player', 'player', 'player', 'plane', 'options', 'one', 'letters', 'game', 'forwards', 'construct', 'combinations', 'backwards', '5'] 
+************************
+['correct logical inference based', 'metrics help improve outcomes', 'poor work culture', 'good work culture', 'one possible reason', 'gets gamed ”.', 'work culture', 'improves ”.', 'gets measured', 'gets measured', 'people believe', 'others believe', 'metrics', 'one', '“', '“', 'q', 'passage', 'organizations', 'organizations', 'organizations', 'information', 'however', 'following', 'difference', 'counterproductive', 'beliefs', '6'] 
+************************
+['recently conducted national entrance test', 'correct logical inference based', 'boys constituted 65', 'girls constituted', 'remaining candidates', 'qualified candidates', 'information provided', 'test', 'q', 'passage', 'one', 'following', 'appeared', 'accounted', '7', '60'] 
+************************
+['box contains five balls', 'orange coloured balls', 'green coloured balls', 'another orange ball', 'box one', 'orange ball', 'orange ball', 'green ball', 'first ball', 'next draw', 'balls', 'two', 'time', 'three', 'size', 'shape', 'replaced', 'replaced', 'q', 'probability', 'getting', 'drawn', 'drawn', 'drawn', 'drawn', '8'] 
+************************
+['line joining p', 'distinct letters p', 'line joining q', '\uf0b7 p', 'named using', 'following statements', 'following statements', 'correct based', 'u cannot', 'side opposite', 'q', 'q', 'u', 'side', '\uf0b7', '\uf0b7', 'triangle', 'sides', 'r', 'r', 'points', 'placed', 'placed', 'parallel', 'order', 'one', 'necessarily', 'mid', 'information', 'corners', 'corner', 'consider', '9'] 
+************************
+['additional straight ropes needed', 'equally spaced poles', 'two ropes', 'straight line', 'three poles', 'single rope', 'necessarily equal', 'least number', 'individual plots', 'four families', 'desired plots', 'already present', 'land must', 'land', 'want', 'similar', 'shape', 'r2', 'r1', 'q', 'plot', 'pass', 'moved', 'marked', 'figure', 'dots', 'divided', 'create', 'cannot', 'area', 'aligned', '10'] 
+************************
+['positive functions', 'following statements', 'f n', 'true', 'q', 'one', '11'] 
+************************
+['following regular expressions correctly represents', 'finite automaton given', 'q', 'one', 'language', '12'] 
+************************
+['following statements', 'true', 'q', 'one', '13'] 
+************************
+['relational data model', 'following statements', 'true', 'q', 'one', '14'] 
+************************
+['singly linked list', 'reversed linked list', 'linked list', 'time complexity', 'look like', 'following statements', '15 consider', 'true', 'take', 'space', 'solve', 'reversing', 'q', 'problem', 'problem', 'one', 'given', 'example', 'algorithms', '1'] 
+************************
+['two simple uniform hash functions 1h', 'hashing scheme uses 1h', 'hash table slots', 'given n keys', 'odd keys', 'expected number', 'even keys', '16 suppose', 'keys', 'suppose', 'slot', 'q', '2h', '2h'] 
+************************
+['following facilitates transfer', 'main memory', 'highest throughput', 'hard disk', 'bulk data', 'q', 'one', '17'] 
+************************
+['18 let r1', 'two 4', 'store numbers', 'operation r1', 'following values', 'complement form', 'bit registers', 'arithmetic overflow', '2 ’', 'r2 gives', 'r1', 'r2', 'r2', 'q', 'one'] 
+************************
+['synchronized using three binary semaphore variables', '1 ); print (“ b ”); signal', '3 ); print (“ c ”); signal', 'operated upon using standard wait ()', '2 ); print (“', 'semaphores would print', '”); signal', 'true ){ wait', 'true ){ wait', 'true ){ wait', 'sequence bcabcabca ….', 'signal ()', '1 );', '3 );', '2 );', '3 executing', 'single processor', 'context switched', '19 consider', 'following threads', '1', '1', '3', '3', '2', 'threads', 'time', 't2', 't1', 's2', 'q', 'order', 'initialization'] 
+************************
+['na \uf0b4, n mb \uf0b4, n nc \uf0b4', 'n nd \uf0b4 statement 1', 'following two statements', 'tr () represents', 'statement 2', 'following holds', '20 consider', 'tr', 'tr', 'tr', 'tr', 'trace', 'respect', 'q', 'one', 'matrix', 'matrices', 'dc', 'cd', 'ba', 'ab'] 
+************************
+['following ansi c program', '1 ]); return 0', '1 ]; *(& z', '11 }; int', 'n ", x', '0 ], z', 'int x', 'int main', 'int argc', 'printf ("%', 'argv [])', '+= 3', '0', '1', '1', 'z', 'z', 'z', 'x', 'stdio', 'q', 'printed', 'p', 'p', 'p', 'p', 'null', 'include', 'h', 'char', '21', '2', '10', '10'] 
+************************
+['connected via three routers', 'two ethernet segments', 'web server', 'subnets inside', 'enterprise network', 'enterprise network', '22 consider', 'shown', 'q', 'number', 'firewall'] 
+************************
+['following statements', 'true', 'q', '23'] 
+************************
+['two set associative cache organizations', 'use lru algorithm', 'cache block replacement', 'write back cache', '24 let wb', 'following statements', 'cache', 'write', 'wb', 'wt', 'wt', 'q', 'false'] 
+************************
+['following relational algebra expressions return', '), employee eid name', '), brand bid bname', 'following three relations', 'eid bid', 'relational database', '25 consider', 'set', 'q', 'eids', 'brands'] 
+************************
+['following statements', 'true', 'respect', 'q', 'deadlocks', '26'] 
+************************
+['following statements', 'true', 'q', 'group', 'g', '27'] 
+************************
+['otherwisenn na \uf02b\uf0ec\uf03d\uf0ed \uf0ee', 'nna \uf0b3 defined', 'sequence 0', 'generating function', 'closed form', 'odd 1', '1', 'q', 'one', 'following', '36'] 
+************************
+['simple undirected unweighted graph', 'least three vertices', 'adjacency matrix', '37 consider', 'graph', 'graph', 'trace', 'q', 'number', 'given', 'cycles', '3'] 
+************************
+['following statements', 'q', 'one', 'false', '38'] 
+************************
+['4 2 3 1 1 2 3 4', 'r x r x r x r', 'iw z denote read', 'w x w', 'following serial schedules', 'data element z', 'r', 'ir z', 'write operations', 'four transactions', 'conflict equivalent', '39 let', 'w', 'transaction', 'schedule', 'respectively', 'q', 'one', 'consider'] 
+************************
+['digital display system', 'word memory segment', 'word register file', 'bit code word', 'code word', 'mode bit', 'input word', 'addressed word', 'following represents', 'corresponding bits', '40 consider', 'register x', 'q interface', 'word', 'x', 'x', 'q', 'q', 'value', 'used', 'shown', 'selects', 'r', 'r', 'p', 'p', 'one', 'load', 'load', 'functionality', 'figure', 'either', 'displays', 'dds', 'contents', 'choose', 'based', '32', '16', '1024'] 
+************************
+['754 single precision floating point format', '41 consider three floating point numbers', 'bit content stored', '0x42100000 r c', '0xc1400000 r b', 'c stored', 'registers r', 'per ieee', 'hexadecimal form', 'b', 'registers', 'respectively', 'rc', 'rb', 'ra', 'q', 'one', 'follows', 'following', 'false', '32', '0x41400000'] 
+************************
+['42 consider four processes p', 'per round robin algorithm', 'exactly two context switches', 'exactly one context switch', 'exactly one context switch', 'cpu burst time', 'context switch', 'context switch', 'processes arrive', 'order p', 'time units', 'time quantum', 'ready process', 'another process', 'also considered', '4 units', 'one', 'processes', 'p', 'time', 'cpu', 'termination', 'switching', 'scheduled', 'r', 'r', 'r', 'r', 'q', 'q', 'q', 'q', 'q', 'q', 'possible', 'following', '0'] 
+************************
+['][ j ][ k ]); printf ("\\ n ");', '3 ][ 3 ][ 3', 'following ansi c program', '27 }}; int', 'printf ("%', 'j', 'k ++', '{{ 1', 'int main', 'int argc', 'argv [])', '9 },', '18 },', '++ ){', 'return 0', '3', '3', '3', 'k', 'k', 'k', 'int', '0', '0', '0', '0', '0', 'stdio', 'q', 'printed', 'include', 'h', 'char', '8', '7', '6', '5', '43', '4', '26', '25', '24', '23', '22', '21', '20', '2', '19', '17', '16', '15', '14', '13', '12', '11', '10', '",'] 
+************************
+['e ); return 0', 'following ansi c program', '\'+\'; printf ("% c', "x '; char c", "p '; char b", "'-'; char e", 'n ", c', 'argv []){ char', "'*'; char", 'relevant characters', 'int main', 'int argc', 'ascii encoding', 'char', 'c', 'c', 'b', 'b', 'b', 'stdio', 'q', 'printed', 'include', 'h', 'given', '44'] 
+************************
+['11 21 22 31 32 330 0 0l l l l l l l \uf0e6 \uf0f6 \uf0e7 \uf0f7\uf03d\uf0e7 \uf0f7\uf0e7 \uf0f7\uf0e8 \uf0f8, 11 12 13 22 23 33 0 0 0u u u u u uu \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e7 \uf0f7\uf0e7\uf0e8 \uf0f8\uf03d \uf0f7', '1 2 3 1 2 3 1 2 32 4 3 7 2 5 7x x x x x x x x x \uf02b \uf02d \uf03d \uf02b \uf02d \uf03d \uf02b \uf02d \uf03d', 'l', 'u', 'x', 'uand 1', 'simultaneous equations using lu decomposition', '33', '45 consider solving', 'correct combination', 'following system', 'following', 'values', 'q', 'one', 'denoted', '32l'] 
+************************
+['undecidable', 'q', 'following', '46'] 
+************************
+['b w x \uf03d \uf0ce \uf03e note', 'rl wxw w x', 'b \uf03d \uf0ce', '}} n nl', 'wa w', '47 consider', ',| |,|', 'w', 'following languages', 'following', 'true', 'string', 'rwis', 'reversal', 'q', '2', '1', '0'] 
+************************
+['}} l ww w', 'b \uf03d \uf0ce 2', 'n \uf03d \uf0b3 3', 'n \uf03d \uf0b3', 'n n ml', 'n nl', 'b c', 'b c', 'following statements', 'following languages', '48 consider', 'q', 'false', '1', '0', '0'] 
+************************
+['simple undirected weighted graph', 'whose edge weights', 'minimum spanning trees', 'following statements', '49 consider', 'true', 'q', 'g', 'g', 'distinct'] 
+************************
+['following simple undirected graph', 'peterson graph', 'following statements', 'true', 'referred', 'q', '50'] 
+************************
+['f f n f n n f n f n n \uf03d \uf03d \uf02d \uf0b3 \uf02b \uf03d \uf02b \uf0b3', 'following statements', 'following recurrence', '51 consider', '2 1', '2', '2', '2', '1', '1', '1', '1', '1', '1', 'true', 'q'] 
+************************
+['simple undirected unweighted graph', 'properties hold', 'n vertices', 'adjacency matrix', 'q', '52'] 
+************************
+['9 6 2 4 8 6 3 1 20 15 8 5 32 21 7 12 \uf02d \uf02d \uf02d \uf02d\uf0e6 \uf0f6 \uf0e7 \uf0f7\uf02d \uf02d \uf02d \uf02d\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8', 'matrix given', 'q', 'following', 'eigenvector', '53'] 
+************************
+['2 kb direct mapped data cache', 'e ., pqrspqrs …).', 'four data words p', 'data cache altogether', 'physical address space', 'order 10 times', 'data cache', 'data cache', 'data words', '64 kb', 'word length', 'initially empty', 'following statements', 'first bytes', 'block size', '64 bytes', '54 consider', '40 accesses', '16 bits', 'p', 'true', 'system', 'system', 'respectively', 'respect', 'r', 'r', 'q', 'q', 'q', 'program', 'program', 'program', 'hence', 'execution', 'execution', 'assume', 'addresses', 'accessed', 'accessed', '0xca8a', '0xc28a', '0xa262', '0xa248'] 
+************************
+['subnet number subnet mask next hop 12', '0 interface 1 default r3', '0 interface 0 12', '55 consider routing table', '0 r2 12', '0 r1 12', 'following prefix es', 'routing table', '0 255', '0 255', '0 255', '0 255', 'router shown', 'organization ’', 'correctly aggregate', 'collectively used', 'cidr notation', '255', '255', '255', '255', 'subnets', 'q', '254', '254', '254', '252', '20', '20', '20', '20', '170', '168', '166', '164'] 
+************************
